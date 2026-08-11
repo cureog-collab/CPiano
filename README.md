@@ -5,22 +5,20 @@ A keyboard written in C for Windows. It maps a laptop keyboard to two chromatic 
 The default mapping covers MIDI notes 48 through 71, or C3 through B4.
 
 **Lower octave**
-Black:```    S   D       G   H   J                      ```
 
-White:```  Z   X   C   V   B   N   M                    ```
+Lower octave
+Black:    S   D       G   H   J
+White:  Z   X   C   V   B   N   M
+Notes:  C  C#   D  D#   E   F  F#   G  G#   A  A#   B
 
-Notes:```  C  C#   D  D#   E   F  F#   G  G#   A  A#   B```
+Upper octave
+Black:    2   3       5   6   7
+White:  Q   W   E   R   T   Y   U
+Notes:  C  C#   D  D#   E   F  F#   G  G#   A  A#   B
 
-**Upper octave**
-Black:```    2   3       5   6   7                      ```
+Shift down one octave: [
 
-White:```  Q   W   E   R   T   Y   U                    ```
-
-Notes:```  C  C#   D  D#   E   F  F#   G  G#   A  A#   B```
-
-Shift down one octave: ```[```
-
-Shift up one octave:   ```]```
+Shift up one octave:   ]
 
 Quit program: ```esc```
 
