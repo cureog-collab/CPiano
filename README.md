@@ -6,12 +6,16 @@ The default mapping covers MIDI notes 48 through 71, or C3 through B4.
 
 **Lower octave**
 Black:```    S   D       G   H   J                      ```
+
 White:```  Z   X   C   V   B   N   M                    ```
+
 Notes:```  C  C#   D  D#   E   F  F#   G  G#   A  A#   B```
 
 **Upper octave**
 Black:```    2   3       5   6   7                      ```
+
 White:```  Q   W   E   R   T   Y   U                    ```
+
 Notes:```  C  C#   D  D#   E   F  F#   G  G#   A  A#   B```
 
 Shift down one octave: ```[```
@@ -45,9 +49,12 @@ Initializes modules, runs the main input loop, and carries cleanup
 # Build and run
 
 From PowerShell in the repository root:
+
 ```make```
 ```.\build\piano.exe```
+
 Or build and run in one command:
+
 ```make run```
 
 # Dependencies
