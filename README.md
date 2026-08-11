@@ -16,9 +16,9 @@ The default mapping covers MIDI notes 48 through 71, or C3 through B4.
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Key | <kbd>Q</kbd> | <kbd>2</kbd> | <kbd>W</kbd> | <kbd>3</kbd> | <kbd>E</kbd> | <kbd>R</kbd> | <kbd>5</kbd> | <kbd>T</kbd> | <kbd>6</kbd> | <kbd>Y</kbd> | <kbd>7</kbd> | <kbd>U</kbd> |
 
-Shift down one octave: [
+Shift down one octave: ```[```
 
-Shift up one octave:   ]
+Shift up one octave: ```]```
 
 Quit program: ```esc```
 
